@@ -7,7 +7,6 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.9",
     "@mui/material": "^5.14.10",
-    "@mui/styled-engine-sc": "^5.14.10",
     "@shoelace-style/shoelace": "^2.8.0",
     "@splidejs/react-splide": "^0.7.12",
     "@splidejs/splide": "^4.1.4",
